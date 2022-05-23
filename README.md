@@ -8,7 +8,10 @@
 - Jump
 - Coin Pickup
 
-- UI (Health, Coin pickup points)
+- User Interface
+  - Health 
+  - Coin pickup points
+  
 - Obstacles
   - Enemies
   - Water
